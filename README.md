@@ -70,24 +70,18 @@ Confidence 🚀
 
 ---
 
-### 🔬 Testing mindset
+🔬 Testing Mindset
 
 For me, QA doesn't start when a build is ready.
 
 It starts with questions:
 
-```text
-❓ Is the requirement consistent?
-❓ Does the business rule make sense?
-❓ Are the acceptance criteria testable?
-❓ What can fail?
-❓ What would be the impact?
+❓ Is the requirement clear and testable?
+❓ What can fail, and what is the impact?
 ❓ What happens in edge cases?
-❓ Are systems exchanging information correctly?
-❓ What happens under load?
-```
+❓ How can we provide evidence of quality?
 
-The goal is to turn those questions into **quality evidence**.
+The goal is to turn questions into quality evidence.
 
 ---
 
