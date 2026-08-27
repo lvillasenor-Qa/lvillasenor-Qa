@@ -86,36 +86,9 @@ The goal is to turn questions into quality evidence.
 
 ---
 
-### 📂 QA Portfolio
+### 📂 Projects
 
-This repository will include examples of:
-
-```text
-📁 test-cases
-   ├── functional-testing
-   ├── regression-testing
-   ├── integration-testing
-   └── e2e-testing
-
-📁 api-testing
-   ├── postman-collections
-   ├── rest-api
-   └── soap-api
-
-📁 database-testing
-   ├── sql
-   ├── data-validation
-   └── backend-validation
-
-📁 performance-testing
-   ├── load-testing
-   └── stress-testing
-
-📁 requirements
-   ├── acceptance-criteria
-   ├── business-rules
-   └── risk-analysis
-```
+This portfolio showcases practical QA projects focused on software quality, testing, and technical validation.
 
 > Each project is designed to demonstrate **how I think as a QA professional**, not just which tools I use.
 
