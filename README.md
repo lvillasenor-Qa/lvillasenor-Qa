@@ -30,51 +30,34 @@ Confidence 🚀
 
 ---
 
-### 🧪 What I do
+### 🧪 What I Do
 
-- 🔎 **Requirements Analysis & Auditing**
-- 📋 **Acceptance Criteria Validation**
-- 🧩 **Functional Testing**
-- 🔄 **Regression Testing**
-- 🔗 **Integration Testing**
-- 🌐 **End-to-End (E2E) Testing**
-- 🔥 **Smoke Testing**
-- 🧠 **BDD-based Testing**
-- 🚀 **API & Backend Testing**
-- 📊 **Load & Stress Testing**
-- 🧑‍💻 **UAT Support**
-- 🐞 **Defect Analysis & Incident Management**
-- 📈 **Quality Metrics & Reporting**
+- 🔎 **Requirements & Test Analysis** — Reviewing requirements, acceptance criteria, and testability.
+- 🧪 **Test Design & Execution** — Designing and executing functional, regression, integration, E2E, and UAT tests.
+- 🔗 **API & Backend Testing** — Validating REST/SOAP APIs and backend behavior.
+- 📊 **Performance & Quality Analysis** — Supporting load/stress testing and monitoring quality metrics.
+- 🐞 **Defect Management** — Identifying, analyzing, documenting, and tracking defects through resolution.
+- 📈 **Quality Reporting** — Communicating test results, risks, and quality insights.
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### QA & Testing
+#### 🧪 QA & Testing
 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![TestRail](https://img.shields.io/badge/TestRail-65C179?style=flat-square)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![SoapUI](https://img.shields.io/badge/SoapUI-6CB33F?style=flat-square)
+[![Jira](...)](...) [![TestRail](...)](...) [![Postman](...)](...) [![SoapUI](...)]
 
-#### APIs & Backend
+#### 🔗 APIs & Backend
 
-![REST](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
-![SOAP](https://img.shields.io/badge/SOAP-444444?style=flat-square)
-![Postman](https://img.shields.io/badge/Postman_Collections-FF6C37?style=flat-square&logo=postman&logoColor=white)
+[![REST](...)](...) [![SOAP](...)]
 
-#### Databases
+#### 🗄️ Databases
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
-![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+[![SQL](...)](...) [![Microsoft SQL Server](...)](...) [![Oracle](...)](...) [![MongoDB](...)](...) [![DynamoDB](...)]
 
-#### Monitoring & Performance
+#### 📊 Monitoring & Performance
 
-![New Relic](https://img.shields.io/badge/New_Relic-1CE783?style=flat-square&logo=newrelic&logoColor=black)
-![Akamai](https://img.shields.io/badge/Akamai-0096D6?style=flat-square)
+[![New Relic](...)](...) [![Akamai](...)](...)
 
 ---
 
