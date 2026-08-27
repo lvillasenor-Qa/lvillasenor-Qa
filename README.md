@@ -134,20 +134,6 @@ This repository will include examples of:
 
 ---
 
-### 🎯 Currently exploring
-
-- API Testing
-- Backend Validation
-- Advanced Postman Scripting
-- SQL & NoSQL Testing
-- Performance & Stress Testing
-- BDD
-- Requirements Quality
-- Risk-Based Testing
-- Test Automation
-
----
-
 ### 📫 Let's connect
 
 **LinkedIn:** [linkedin.com/in/qalvv](https://www.linkedin.com/in/qalvv/)
