@@ -49,7 +49,7 @@ Confidence 🚀
 
 #### 🧪 QA & Testing
 
-[![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square\&logo=jira\&logoColor=white)](https://www.atlassian.com/software/jira)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![TestRail](https://img.shields.io/badge/TestRail-65C179?style=flat-square)](https://www.testrail.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)](https://www.postman.com/)
 [![SoapUI](https://img.shields.io/badge/SoapUI-6CB33F?style=flat-square)](https://www.soapui.org/)
