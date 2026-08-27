@@ -6,8 +6,6 @@
 
 ---
 
-# 🇺🇸 English
-
 ### 🧭 About me
 
 I'm a **Quality Assurance (QA) professional** focused on identifying risks before they become problems.
