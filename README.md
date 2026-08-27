@@ -56,32 +56,13 @@ Confidence 🚀
 
 ### 🛠️ Tech Stack
 
-#### QA & Testing
-
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![TestRail](https://img.shields.io/badge/TestRail-65C179?style=flat-square)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![SoapUI](https://img.shields.io/badge/SoapUI-6CB33F?style=flat-square)
-
-#### APIs & Backend
-
-![REST](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
-![SOAP](https://img.shields.io/badge/SOAP-444444?style=flat-square)
-![Postman](https://img.shields.io/badge/Postman_Collections-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-#### Databases
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
-![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
-
-#### Monitoring & Performance
-
-![New Relic](https://img.shields.io/badge/New_Relic-1CE783?style=flat-square&logo=newrelic&logoColor=black)
-![Akamai](https://img.shields.io/badge/Akamai-0096D6?style=flat-square)
-
+| Area | Tools & Technologies |
+|---|---|
+| **QA & Testing** | Jira · TestRail · Postman · SoapUI |
+| **API & Backend** | REST · SOAP · API Testing · BDD |
+| **Databases** | SQL · Oracle DB · SQL Server · MongoDB · DynamoDB |
+| **Performance & Monitoring** | Load Testing · Stress Testing · New Relic · Akamai CloudTest |
+| **Testing Types** | E2E · Functional · Regression · Integration · Smoke · UAT |
 ---
 
 ### 🔬 Testing mindset
