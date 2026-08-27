@@ -8,11 +8,12 @@
 
 ### 🧭 About me
 
-I'm a **Quality Assurance (QA) professional** focused on identifying risks before they become problems.
+I'm a QA Engineer focused on identifying risks,
+analyzing requirements, and designing effective tests.
 
-My approach combines **requirements analysis + test design + technical validation**, with the goal of not only finding bugs, but understanding the business logic behind every feature.
-
-I'm particularly interested in the stage where asking the right question can prevent an issue during development, testing, or even in production.
+My approach combines requirements analysis,
+test design, and technical validation to ensure
+software meets both business and quality expectations. 
 
 ```text
 Requirement
