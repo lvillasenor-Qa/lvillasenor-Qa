@@ -83,7 +83,7 @@ It starts with questions:
 ❓ How can we provide evidence of quality?
 
 The goal is to turn questions into quality evidence.
-
+```
 ---
 
 ### 📂 QA Portfolio
