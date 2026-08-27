@@ -76,14 +76,14 @@ For me, QA doesn't start when a build is ready.
 
 It starts with questions:
 
-```markdown
+```text
 ❓ Is the requirement clear and testable?  
 ❓ What can fail, and what is the impact?  
 ❓ What happens in edge cases?  
 ❓ How can we provide evidence of quality?
-
-The goal is to turn questions into quality evidence.
 ```
+The goal is to turn questions into quality evidence.
+
 ---
 
 ### 📂 QA Portfolio
