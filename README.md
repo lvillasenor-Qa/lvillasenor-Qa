@@ -91,7 +91,7 @@ The goal is to turn questions into quality evidence.
 This portfolio showcases practical QA projects focused on software quality, testing, and technical validation.
 
 #### 🎭 Playwright Login Testing 
-A hands-on QA automation practice focused on validating a successful user login flow using **Playwright** and **TypeScript**. 
+A hands-on QA automation practice focused on validating a successful user login flow using **Playwright** and **TypeScript**.  
 🔐 Login flow validation  
 🔎 `data-test` locator strategy  
 ✅ Assertions and validation  
