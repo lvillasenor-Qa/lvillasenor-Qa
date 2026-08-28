@@ -85,34 +85,34 @@ The goal is to turn questions into quality evidence.
 
 ### 📂 Projects
 
-This portfolio showcases practical QA projects focused on software quality, testing, and technical validation.
+This portfolio showcases practical QA projects focused on software quality, testing, and technical validation.  
 
-#### 🐾 API Testing — PokéAPI
+#### 🐾 API Testing — PokéAPI  
 
-A hands-on REST API testing project using **Postman** and **PokéAPI**, focused on test design, negative testing, pagination, exploratory testing, response validation, and QA investigation.
+A hands-on REST API testing project using **Postman** and **PokéAPI**, focused on test design, negative testing, pagination, exploratory testing, response validation, and QA investigation.  
 
-🔎 Resource retrieval and response validation
-❌ Negative testing and expected error responses
-📄 Pagination and parameter exploration
-🔬 Exploratory testing and edge-case investigation
-🕵️ QA analysis of unexpected API behavior
-📊 Test evidence and documented findings
+🔎 Resource retrieval and response validation  
+❌ Negative testing and expected error responses  
+📄 Pagination and parameter exploration  
+🔬 Exploratory testing and edge-case investigation  
+🕵️ QA analysis of unexpected API behavior  
+📊 Test evidence and documented findings  
 
-[View Project →](https://github.com/lvillasenor-Qa/api-testing)
+[View Project →](https://github.com/lvillasenor-Qa/api-testing)  
 
 ---
 
-#### 🎭 Playwright Login Testing
+#### 🎭 Playwright Login Testing  
 
-A hands-on QA automation practice focused on validating a successful user login flow using **Playwright** and **TypeScript**.
+A hands-on QA automation practice focused on validating a successful user login flow using **Playwright** and **TypeScript**.  
 
-🔐 Login flow validation
-🔎 `data-test` locator strategy
-✅ Assertions and validation
-🌐 Cross-browser testing
-📊 HTML test reporting
+🔐 Login flow validation  
+🔎 `data-test` locator strategy  
+✅ Assertions and validation  
+🌐 Cross-browser testing  
+📊 HTML test reporting  
 
-[View Project →](https://github.com/lvillasenor-Qa/playwright)
+[View Project →](https://github.com/lvillasenor-Qa/playwright)  
 
 ---
 
